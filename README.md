@@ -1,2 +1,3 @@
 # plano-de-tcc
-Esse é meu markdown do plano do projeto integrador
+Esse é meu plano do projeto integrador.
+
